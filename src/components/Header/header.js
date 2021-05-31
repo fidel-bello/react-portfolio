@@ -27,4 +27,4 @@ function Header() {
     )
 }
 
-export default Header; console.log('hello')
+export default Header; console.log('hi')
