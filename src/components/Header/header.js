@@ -5,15 +5,15 @@ import React from 'react';
 function Header() {
     return (
 <header>
-    <div class="container">
-      <div class="row">
-        <div class="brand-name">
+    <div className="container">
+      <div className="row">
+        <div className="brand-name">
           <a href="/" class="logo">Welcome!</a>
         </div>
-        <div class="hamburger">
-          <i class="fa fa-bars"></i>
+        <div className="hamburger">
+          <i className="fa fa-bars"></i>
         </div>
-        <div class="navbar">
+        <div className="navbar">
           <ul>
             <li><a href="#home" class="active">Home</a></li>
             <li><a href="#about">About</a></li>
